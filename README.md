@@ -1,6 +1,9 @@
 #Aggrid boilerplate
 
-This project present some diffrents features qith vite.js and with this project you have the base to create a aggrid project 
+This project present some diffrents features with vite.js and with this project you have the base to create a aggrid project 
+
+You can find some feature integreted on the repos
+
 
 ## Features
 
@@ -20,6 +23,13 @@ This project present some diffrents features qith vite.js and with this project 
 - aggrid: powerful tools to create some tab and easy filter
 -chartjs: good tools to create graph
 
+Link for doc Mui : 
+Tri List Mui :
+- https://mui.com/material-ui/react-transfer-list/
+Chip Mui :
+- https://mui.com/material-ui/react-select/
+Autocomplete :
+- https://mui.com/material-ui/react-autocomplete/
 
 
 
